@@ -6,6 +6,7 @@
   Phone: +380 98 718 2314 <br>
   Telegram: https://t.me/friz25 <br>
   WhatsApp: https://wa.me/380987182314 <br>
+  LinkedIn: https://www.linkedin.com/in/victor-dzeba/
 
 
 <!---
