@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Victor Dzeba (Python Developer) @friz25
 - 👀 I’m interested in Python
-- 📫 How to reach me :
- <p> Email: frizmob@gmail.com 
-   <p>Skype: live:frizmob
-  <p> Phone: +380 98 718 2314
-  <p> Telegram: https://t.me/friz25
-  <p> WhatsApp: https://wa.me/380987182314
+- 📫 How to reach me : 
+  <p> Email: frizmob@gmail.com <br>
+  Skype: live:frizmob <br>
+  Phone: +380 98 718 2314 <br>
+  Telegram: https://t.me/friz25 <br>
+  WhatsApp: https://wa.me/380987182314 <br>
 
 
 <!---
