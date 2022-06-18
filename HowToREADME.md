@@ -46,7 +46,7 @@ http://www.youtube.com
 
 [![video](https://i.ibb.co/XyZ6CTF/pigeons.jpg)](http://www.youtube.com)
 
-<h1><i>Friz (the Python Programmer)</i></h1>
+<h1><i>Friz (the Python Developer)</i></h1>
 <div>asdasda</div>
 <img src="https://i.ibb.co/XyZ6CTF/pigeons.jpg">
 
